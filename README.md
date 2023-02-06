@@ -123,10 +123,14 @@
 - <br> <img width="641" alt="스크린샷 2023-02-06 오후 6 32 34" src="https://user-images.githubusercontent.com/93418349/216936158-2b5ae0aa-c97b-4751-9514-36236a21eac2.png">
 - 대칭 암호 알고리즘 : 키 교환 필요, 속도 빠름
 - 비대칭 암호 알고리즘 : 공개키 암호라고도 하고. 키 교환 필요 없고. 자신만의 키 사용. 속도 느림
-- RBAC : 
-
-
-
+- RBAC : Role Based Access Control 역할 기반 접근 통제
+- <br> <img width="400" alt="스크린샷 2023-02-06 오후 6 47 33" src="https://user-images.githubusercontent.com/93418349/216939432-49ca3a40-6b3d-4a53-8c9e-d4d8ebb55563.png">
+- Authorization : 권한 부여
+- Authentication : 인증
+- SDN(Software Definded Networking) : 네트워크를 제어부, 데이터 전달부로 분리하여 네트워크 관리자가 보다 효율적으로 네트워크를 제어, 관리할 수 있는 기술
+- ~~Network Mapper : 네트워크 보안을 위한 유틸리티~~
+- ~~AOE Network : 수행되는 작업의 각 단계를 정점과 간선으로 나타난 그래프~~
+- PERT 차트 : 작업들 간의 상호 관련성, 결정경로, 경계시간, 자원할당 등을 제시하는 네트워크 도표
 
 
 
