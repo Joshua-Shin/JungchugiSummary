@@ -352,7 +352,14 @@
 - MQTT 프로토콜 : Message Queuing Telemetry Transport. TCP/IP 기반 네트워크에서 동작하는 발행-구독 기반의 메시징 프로토콜
 - SSO : Single Sign On. 여러 시스템 중 하나의 시스템에 인증을 성공하면 다른 시스템의 접근 권한도 모두 얻는 방식.
 - OWASP(The Open Web Application Security Project)는 오픈소스 웹 애플리케이션 보안 프로젝트이다. 주로 웹에 관한 정보노출, 악성 파일 및 스크립트, 보안 취약점 등을 연구함
-
+- putnam - 레일리 - slim
+- UWB - bluetooth - 피코넷
+- 라우팅 프로토콜 링크상태 OSPF
+- ISO/IEC 12119 테스트, 12207 프레임워크, 15504 SPICE
+- SPICE 6단계. 불완전 수행 관리 확립 예측 최적화
+- SAN : 광케이블 저장장치 단일화
+- 정보보안의 3대 요소 : 기밀성, 무결성, 가용성
+- 테일러링 : 주어진 대상에 딱 맞게 줄이거나 늘리는 것. 개별 과제의 특성에 맞게 딱 맞도록 방법론을 적용.
 
 
 
