@@ -286,7 +286,6 @@
 - 악성코드
   - Worm : 다른 컴퓨터의 취약점을 이용하여 스스로 전파하거나 메일로 전파되며 스스로를 증식하는 것. <br> <img width="640" alt="스크린샷 2023-02-06 오후 6 28 08" src="https://user-images.githubusercontent.com/93418349/216935229-341ab321-316a-429e-bf96-2550e97f2315.png">
 - 공격기법 <br> <img width="641" alt="스크린샷 2023-02-06 오후 6 32 34" src="https://user-images.githubusercontent.com/93418349/216936158-2b5ae0aa-c97b-4751-9514-36236a21eac2.png">
-- RBAC : Role Based Access Control 역할 기반 접근 통제
 - cocomo 모형 <br> <img width="400" alt="스크린샷 2023-02-06 오후 6 47 33" src="https://user-images.githubusercontent.com/93418349/216939432-49ca3a40-6b3d-4a53-8c9e-d4d8ebb55563.png">
 - COCOMO 모델 : LOC( Line of Code ) 기반 비용 산정 방식
 - Organic : 기관 내부의 중소 규모 sw대상, 5만 라인 이하 소프트웨어 개발에 적합
@@ -336,6 +335,7 @@
 - 접근 통제
   - 강제접근통제(Mandatory Access Control): 주체와 객체의 등급을 비교하여 접근 권한을 부여하는 방식
   - 임의접근통제(Discretionary Access Control): 접근하는 사용자의 신원에 따라 접근 권한을 부여하는 방식
+  - 역할 기반 접근 통제(Role Based Access Control) RBAC 
   - 사용자계정컨트롤(User Access Control): 프로그램에서 관리자 수준의 권한이 필요한 작업을 수행할 때 사용자에게 알려서 제어할 수 있도록 돕는 기능
   - 자료별 접근통제(Data-Label Access Control > Label-Based Access Control) : 개별 행, 열에 대해 쓰기 권한, 읽기 권한을 가졌는지를 명확하게 결정하는 제어 방식
 - PaaS-TA : 국내 IT 서비스 경쟁력 강화를 목표로 개발되었으며 인프라 제어 및 관리 환경, 실행 환경, 개발 환경, 서비스 환경, 운영환경으로 구성되어 있는 개방형 클라우드 컴퓨팅 플랫폼
