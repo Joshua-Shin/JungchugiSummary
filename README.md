@@ -188,7 +188,7 @@
   - 결함: 주기억장치의 페이지가 변동되는것
 - 유닉스 
   - 서버용 
-  - time sharng system을 위해 설계된 대화식 운영체제
+  - time sharing system을 위해 설계된 대화식 운영체제
   - 이식성. 호환성. C언어. 
   - Multi user, Multi tasking 모두 지원. 
   - 트리구조의 파일시스템
