@@ -1,4 +1,4 @@
-정보처리기사 요약 정리
+정보처리기사 요약 정리(필기)
 -----------
 #### 시험개요
 - 시험개요 <br> <img width="740" alt="스크린샷 2023-01-29 오후 4 56 51" src="https://user-images.githubusercontent.com/93418349/216806261-712d63eb-37fd-4c86-926e-a8edd7e87c5f.png">
