@@ -48,19 +48,15 @@
   - 4등분된 각각의 네트워크의 시작값은 네트워크ip주소가 되고, 끝값은 브로드캐스트ip주소가됨.
   - 즉, 두번째 네트워크의 브로드캐스트 ip주소는 127임.
   - 정답: 192.168.1.127
-- 블랙박스 vs 화이트박스
-  - 블랙박스 테스트 <br> <img width="800" alt="스크린샷 2023-04-18 오후 6 57 45" src="https://user-images.githubusercontent.com/93418349/232742519-c037a870-e6dc-45d7-bdbf-f28fcd5d8733.png">
-  - 화이트박스 테스트 <br> <img width="800" alt="스크린샷 2023-04-18 오후 6 48 54" src="https://user-images.githubusercontent.com/93418349/232742626-02be5f28-fba9-48fe-98bd-6396303591aa.png">
+- <img width="1440" alt="스크린샷 2023-04-18 오후 6 57 45" src="https://user-images.githubusercontent.com/93418349/232742519-c037a870-e6dc-45d7-bdbf-f28fcd5d8733.png">
+- <img width="1440" alt="스크린샷 2023-04-18 오후 6 48 54" src="https://user-images.githubusercontent.com/93418349/232742626-02be5f28-fba9-48fe-98bd-6396303591aa.png">
 - sql 에서 distinct : 결과로 표시된 값들 중에서 중복된 값이 있을때 제거. 결과를 낼떄 중복값을 제거하는게 아니라.
-- 네트워크 침해
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 30 22" src="https://user-images.githubusercontent.com/93418349/232756963-f653da9e-32b4-457e-9503-f8ebba9af715.png"> 
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 30 55" src="https://user-images.githubusercontent.com/93418349/232757026-e7e8534d-4a79-4543-bb1d-ff38d9922695.png">
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 30 47" src="https://user-images.githubusercontent.com/93418349/232757038-b42b8368-fa39-4c33-be98-4b69c47433da.png">
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 30 38" src="https://user-images.githubusercontent.com/93418349/232757041-c30d1ae0-eb93-4c0e-9be2-991ea0e4ca7f.png">
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 30 29" src="https://user-images.githubusercontent.com/93418349/232757045-301b82e0-de27-4a96-ad4e-c32ac2080dc0.png">
-- Python 
-  - <img width="800" alt="스크린샷 2023-04-18 오후 7 29 44" src="https://user-images.githubusercontent.com/93418349/232757132-6a8fc2a8-907b-409b-959f-9992257ec0e6.png">
-- 
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 30 22" src="https://user-images.githubusercontent.com/93418349/232756963-f653da9e-32b4-457e-9503-f8ebba9af715.png"> 
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 30 55" src="https://user-images.githubusercontent.com/93418349/232757026-e7e8534d-4a79-4543-bb1d-ff38d9922695.png">
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 30 47" src="https://user-images.githubusercontent.com/93418349/232757038-b42b8368-fa39-4c33-be98-4b69c47433da.png">
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 30 38" src="https://user-images.githubusercontent.com/93418349/232757041-c30d1ae0-eb93-4c0e-9be2-991ea0e4ca7f.png">
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 30 29" src="https://user-images.githubusercontent.com/93418349/232757045-301b82e0-de27-4a96-ad4e-c32ac2080dc0.png">
+<img width="1440" alt="스크린샷 2023-04-18 오후 7 29 44" src="https://user-images.githubusercontent.com/93418349/232757132-6a8fc2a8-907b-409b-959f-9992257ec0e6.png">
 <img width="1440" alt="스크린샷 2023-04-18 오후 8 05 51" src="https://user-images.githubusercontent.com/93418349/232775601-d7c624f7-0ea7-4cc7-b80b-257d44967e6e.png">
 <img width="1440" alt="스크린샷 2023-04-18 오후 8 06 42" src="https://user-images.githubusercontent.com/93418349/232775655-4defc3d4-b6ee-4a07-8faf-ae956ffa09f8.png">
 <img width="1440" alt="스크린샷 2023-04-18 오후 8 11 24" src="https://user-images.githubusercontent.com/93418349/232775663-4c80ef82-05d4-424c-9bb7-0b708babdb4f.png">
