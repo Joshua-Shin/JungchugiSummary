@@ -82,3 +82,42 @@
 <img width="1440" alt="스크린샷 2023-04-18 오후 8 48 00" src="https://user-images.githubusercontent.com/93418349/232775735-eb811e4e-255c-4bde-b6bc-7b70bcd8dd33.png">
 <img width="1440" alt="스크린샷 2023-04-18 오후 8 53 15" src="https://user-images.githubusercontent.com/93418349/232775740-8428d6eb-5b7f-49e2-9fb4-276ba5f61635.png">
 
+----------------------------------
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 35 35" src="https://user-images.githubusercontent.com/93418349/233085830-4d9e7958-07b4-456f-a242-a0983f0d3dc5.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 44 17" src="https://user-images.githubusercontent.com/93418349/233085850-cf9f7b37-cb0c-4d4c-b7e5-e837680da9e3.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 52 13" src="https://user-images.githubusercontent.com/93418349/233085855-921e2554-7726-44dd-94b3-88d3965c44e0.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 52 21" src="https://user-images.githubusercontent.com/93418349/233085859-4b7b3f2a-aa98-4f43-80c0-57a4feb9642f.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 52 33" src="https://user-images.githubusercontent.com/93418349/233085861-8f7443e1-728c-433c-afaa-92dfe9688ec4.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 53 57" src="https://user-images.githubusercontent.com/93418349/233085866-6a4a47ac-70fb-4746-8a5b-5d009ca90538.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 6 56 10" src="https://user-images.githubusercontent.com/93418349/233085870-afb0b9f8-9368-4e16-9787-2dc76e5516d9.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 24 46" src="https://user-images.githubusercontent.com/93418349/233085875-b6cf7e68-80aa-438f-985a-f80c7f6d8a64.png">
+<img width="703" alt="스크린샷 2023-04-19 오후 7 27 49" src="https://user-images.githubusercontent.com/93418349/233085879-154086a4-aca2-4d29-8c9b-78a4e6997a86.png">
+<img width="724" alt="스크린샷 2023-04-19 오후 7 27 55" src="https://user-images.githubusercontent.com/93418349/233085885-f233cbd3-b1ac-4774-a215-c94069649b01.png">
+<img width="726" alt="스크린샷 2023-04-19 오후 7 28 20" src="https://user-images.githubusercontent.com/93418349/233085893-6436c300-2d79-4cfc-991f-5e0dfa2969fd.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 31 12" src="https://user-images.githubusercontent.com/93418349/233085899-1788c212-83ed-4f7c-81b0-6c03617c3ca1.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 32 15" src="https://user-images.githubusercontent.com/93418349/233085902-be4e1e18-ca0a-479a-858f-4c573e10a770.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 35 38" src="https://user-images.githubusercontent.com/93418349/233085907-61119ace-cdc6-4d75-b112-a8c0f55604a5.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 53 07" src="https://user-images.githubusercontent.com/93418349/233085912-76d1ce9e-3104-4300-a8ae-bdb91ddc0a90.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 55 11" src="https://user-images.githubusercontent.com/93418349/233085915-b281d86f-b635-4bd3-bafb-e35c6101ffe9.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 7 58 13" src="https://user-images.githubusercontent.com/93418349/233085919-3aad41c2-e903-40d8-85fa-9fbd1f39cd50.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 00 03" src="https://user-images.githubusercontent.com/93418349/233085921-c47f5f74-056b-463e-b72b-d7f1d729b01b.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 04 29" src="https://user-images.githubusercontent.com/93418349/233085927-764f906b-ba7f-44ec-8352-f82bee3e30b0.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 38 00" src="https://user-images.githubusercontent.com/93418349/233085928-192b8259-fab6-4343-944a-397de8186de6.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 40 14" src="https://user-images.githubusercontent.com/93418349/233085929-c847ea83-fda4-4bba-8ad7-9d99d662f18f.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 41 43" src="https://user-images.githubusercontent.com/93418349/233085934-fe8544bf-5ef1-4b21-84db-5bf61c0422aa.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 42 56" src="https://user-images.githubusercontent.com/93418349/233085939-ae1b4074-daf5-4f8c-b651-20d03951c38e.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 46 08" src="https://user-images.githubusercontent.com/93418349/233085943-c31c86ee-bf6f-475a-8c04-ad272bc832c1.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 46 42" src="https://user-images.githubusercontent.com/93418349/233085945-a52c04f9-2788-4f74-adca-199d03a056a7.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 8 57 45" src="https://user-images.githubusercontent.com/93418349/233085950-28ac9c6a-76c1-4336-acda-0441c683b624.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 05 57" src="https://user-images.githubusercontent.com/93418349/233085951-ae1e9e13-db75-4d79-b866-8f1c013af4a5.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 06 06" src="https://user-images.githubusercontent.com/93418349/233085956-d22c8405-f4dd-4b68-b83d-45f2322ac35f.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 07 43" src="https://user-images.githubusercontent.com/93418349/233085959-44a187af-aad0-49d2-9fe4-4f2a7c3e64ae.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 16 47" src="https://user-images.githubusercontent.com/93418349/233085965-139cf5da-886f-43fc-8521-d4c34d898e95.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 29 04" src="https://user-images.githubusercontent.com/93418349/233085970-8bbe2bcc-888b-483a-9a09-9342d880d6d3.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 31 15" src="https://user-images.githubusercontent.com/93418349/233085973-9c179b1a-7760-483d-893b-4c05e803ebbf.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 9 32 02" src="https://user-images.githubusercontent.com/93418349/233085979-0b38f60f-b0ca-4225-bb5a-9e742640392c.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 10 01 03" src="https://user-images.githubusercontent.com/93418349/233085985-625e0d56-c8f8-4ba9-848c-ffd341b8bb8c.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 10 09 32" src="https://user-images.githubusercontent.com/93418349/233085987-5f1c2faa-c2a5-47ce-a345-738f3567770d.png">
+<img width="1440" alt="스크린샷 2023-04-19 오후 10 13 03" src="https://user-images.githubusercontent.com/93418349/233085993-3bce9d19-7478-42e8-9f7f-e71462794124.png">
+
+
