@@ -11,35 +11,6 @@
     - 교집합(Intersection): 기호는 ∩ 이며, 두 릴레이션에 존재하는 튜플의 교집합을 구한다.  
     - Difference: 기호는 － 이며, 두 릴레이션의 차집합을 구한다.   
     - Cartesian Product: 기호는 × 이며, 두 릴레이션에 존재하는 튜플들의 결합된 정보를 구하는 연산이다.
-<!--
-- 디자인 패턴
-  - 1_ 생성
-    -  추상 팩토리 (Abstract Factory): 생성군들을 하나의 모아놓고 팩토리 중에서 선택하게 하는 패턴
-    -  Factory Method : 객체를 생성하기 위한 인터페이스를 정의하여 어떤 클래스가 인스턴스화 될 것인지는 서브 클래스가 결정하도록 하는 패턴
-    -  Builder : 생산 단계를 캡슐화 하여 구축 공정을 동일하게 이용하도록 하는 패턴
-    -  Singleton : 유일한 하나의 인스턴스를 보장하도록 하는 패턴
-    -  Prototype : 복사하여 새 개체를 생성할 수 있도록 하는 패턴
-  - 2_ 구조
-    - Adapter : 인터페이스로 인해 함께 사용하지 못하는 클래스를 함께 사용하도록 하는 패턴
-    - Bridge : 추상과 구현을 분리하여 결합도를 낮춘 패턴
-    - Composite : 개별 객체와 복합 객체를 클라이언트에서 동일하게 사용하도록 하는 패턴
-    - Decorator : 소스를 변경하지 않고 기능을 확장하도록 하는 패턴
-    - Facade : 하나의 인터페이스를 통해 느슨한 결합을 제공하는 패턴
-    - Proxy : 대리인이 대신 그 일을 처리하는 패턴
-    - Flyweight : 대량의 작은 객체들을 공유하는 패턴
-  - 3_ 행위
-    - Chain of Responsibility : 객체들끼리 연결 고리를 만들어 내부적으로 전달하는 패턴
-    - Command : 요청 자체를 캡슐화하여 파라미터로 넘기는 패턴
-    - Interpreter : 언어 규칙 클래스를 이용하는 패턴
-    - Iterator : 내부 표현은 보여주지 않고 순회하는 패턴
-    - Mediator : 객체 간 상호작용을 캡슐화한 패턴
-    - Memento : 상태 값을 미리 저장해 두었다가 복구하는 패턴
-    - Observer : 상태가 변할 때 의존자들에게 알리고, 자동 업데이트하는 패턴
-    - State : 객체 내부 상태에 따라서 행위를 변경하는 패턴
-    - Strategy : 다양한 알고리즘 캡슐화하여 알고리즘 대체가 가능하도록 한 패턴
-    - Template Method : 알고리즘 골격의 구조를 정의한 패턴
-    - Visitor : 오퍼레이션을 별도의 클래스에 새롭게 정의한 패턴
--->
 - 192.168.1.0/24 네트워크를 FLSM 방식으로 3개의 subnet으로 나눌떄 두번째 네트워크의 브로드캐스트 ip주소를 써라
   - '/24' 의미 : 앞 24비트는 고정값이니, 마지막 8비트까지고 나눠라.
   - subnet은 2의배수로 나눌 수 있음. -> 3개로 나누고싶다면 4개로 나눠야함.
@@ -110,7 +81,6 @@
 <img width="1440" alt="스크린샷 2023-04-19 오후 8 46 08" src="https://user-images.githubusercontent.com/93418349/233085943-c31c86ee-bf6f-475a-8c04-ad272bc832c1.png">
 <img width="1440" alt="스크린샷 2023-04-19 오후 8 46 42" src="https://user-images.githubusercontent.com/93418349/233085945-a52c04f9-2788-4f74-adca-199d03a056a7.png">
 <img width="1440" alt="스크린샷 2023-04-19 오후 8 57 45" src="https://user-images.githubusercontent.com/93418349/233085950-28ac9c6a-76c1-4336-acda-0441c683b624.png">
-<img width="1440" alt="스크린샷 2023-04-19 오후 9 05 57" src="https://user-images.githubusercontent.com/93418349/233085951-ae1e9e13-db75-4d79-b866-8f1c013af4a5.png">
 <img width="1440" alt="스크린샷 2023-04-19 오후 9 06 06" src="https://user-images.githubusercontent.com/93418349/233085956-d22c8405-f4dd-4b68-b83d-45f2322ac35f.png">
 <img width="1440" alt="스크린샷 2023-04-19 오후 9 07 43" src="https://user-images.githubusercontent.com/93418349/233085959-44a187af-aad0-49d2-9fe4-4f2a7c3e64ae.png">
 <img width="1440" alt="스크린샷 2023-04-19 오후 9 16 47" src="https://user-images.githubusercontent.com/93418349/233085965-139cf5da-886f-43fc-8521-d4c34d898e95.png">
@@ -160,7 +130,6 @@
 <img width="1440" alt="스크린샷 2023-04-21 오후 9 07 24" src="https://user-images.githubusercontent.com/93418349/233652300-327e4a9c-b392-4ad0-9f22-3b7d0adbf084.png">
 <img width="1440" alt="스크린샷 2023-04-21 오후 9 08 47" src="https://user-images.githubusercontent.com/93418349/233652348-27d8c6a1-9561-4fb1-b85a-856620338d7d.png">
 <img width="1440" alt="스크린샷 2023-04-21 오후 9 12 52" src="https://user-images.githubusercontent.com/93418349/233652362-bfe4d67b-0f99-4836-99d6-9777a7366f21.png">
-<img width="1440" alt="스크린샷 2023-04-21 오후 9 13 07" src="https://user-images.githubusercontent.com/93418349/233652369-97709ce7-cbee-4d61-8829-63970a1f5768.png">
 <img width="775" alt="스크린샷 2023-04-21 오후 9 13 12" src="https://user-images.githubusercontent.com/93418349/233652371-46bcc582-9131-4733-a0cd-499a9b523fd6.png">
 <img width="780" alt="스크린샷 2023-04-21 오후 9 13 16" src="https://user-images.githubusercontent.com/93418349/233652375-ca2bf2f1-e2bd-40de-9024-ce2e81716c23.png">
 <img width="841" alt="스크린샷 2023-04-21 오후 9 24 33" src="https://user-images.githubusercontent.com/93418349/233652378-6ca12b4e-fdc0-4850-bba0-21c441df8174.png">
@@ -252,6 +221,8 @@
 <img width="1440" alt="스크린샷 2023-04-22 오후 5 47 10" src="https://user-images.githubusercontent.com/93418349/233773896-724a528d-52c7-44e6-a714-1eabd74e1825.png">
 <img width="1440" alt="스크린샷 2023-04-22 오후 5 47 48" src="https://user-images.githubusercontent.com/93418349/233773898-9ead8b40-d245-4cfc-a8e7-2bc7bdedc90e.png">
 
+<img width="1440" alt="스크린샷 2023-04-22 오후 7 17 18" src="https://user-images.githubusercontent.com/93418349/233799308-c307c065-b8fc-47b0-bc05-b17f3316bfc6.png">
+<img width="1440" alt="스크린샷 2023-04-23 오전 12 15 06" src="https://user-images.githubusercontent.com/93418349/233799312-e0f78089-6edf-42ac-ae0a-3fce68dac1d8.png">
 
 
 
